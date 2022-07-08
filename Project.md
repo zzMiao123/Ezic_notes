@@ -129,6 +129,8 @@ TowerTakeover竞赛小车  [VEX Brain](https://www.vexrobotics.com/276-4810.html
 
 <img src="/home/maoyuxuan/.config/Typora/typora-user-images/image-20220126172928581.png" alt="image-20220126172928581" style="zoom:50%;" />
 
+![Screenshot from 2022-07-08 16-24-37](/home/maoyuxuan/Pictures/Screenshot from 2022-07-08 16-24-37.png)
+
 #### 2.4 JetRacer
 
 ![img](https://user-images.githubusercontent.com/4212806/67442981-ce459e00-f5b7-11e9-9c8a-14ab360decb8.gif)
